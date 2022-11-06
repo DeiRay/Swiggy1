@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Learn testng" >
+    <test name="SwiggyLogin">
+        <classes>
+            <class name="org.example.test.swiggy"></class>
+
+        </classes>
+    </test>
+</suite>
